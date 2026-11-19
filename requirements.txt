@@ -1,0 +1,6 @@
+requests
+pandas
+numpy
+sentence-transformers
+google-genai
+python-dotenv
